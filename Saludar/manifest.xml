@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package installOnlyAtStartup="false" version="0.0.0" uuid="saludar-909889">
+ <names>
+  <name lang="en_US">SaludoMilitar</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>es_ES</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>es_ES</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">SaludoMilitar</name>
+    <name lang="es_ES">Saludo militar</name>
+   </names>
+   <triggerSentences>
+    <sentence lang="es_ES">Saludo Militar</sentence>
+   </triggerSentences>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="BienvenidaTerapia">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

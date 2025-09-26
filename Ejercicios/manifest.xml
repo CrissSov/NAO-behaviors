@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="ejercicios-552ddf" installOnlyAtStartup="false">
+ <names>
+  <name lang="en_US">Ejercicios</name>
+  <name lang="es_ES">Ejercicios</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>es_ES</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>es_ES</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Brazos1</name>
+   </names>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="brazos2">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="brazos3">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="brazos4">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
