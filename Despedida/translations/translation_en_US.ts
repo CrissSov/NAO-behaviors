@@ -9,10 +9,15 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Gracias por participar, espero haya sido una buena experiencia, adíos</source>
             <comment>Text</comment>
-            <translation type="unfinished">Gracias por participar, espero haya sido una buena experiencia, adíos</translation>
+            <translation type="obsolete">Gracias por participar, espero haya sido una buena experiencia, adíos</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Gracias por participar conmigo, espero haya sido una buena experiencia, ahora volvemos a nuestras actividades, mucha suerte</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Gracias por participar conmigo, espero haya sido una buena experiencia, ahora volvemos a nuestras actividades, mucha suerte</translation>
         </message>
     </context>
 </TS>
