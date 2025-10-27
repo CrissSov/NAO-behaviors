@@ -6,6 +6,9 @@
         <BehaviorDescription name="behavior" src="brazos2" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="brazos3" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="brazos4" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="brazos5" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="brazos6" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="brazos7" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />
